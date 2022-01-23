@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+input{
+    user-select: all;
+}
+app-model{
+    height: 100vh;
+    width: 100vw;
+}
